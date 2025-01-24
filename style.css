@@ -1,0 +1,14 @@
+body {
+}
+.form {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+.form-container {
+	font-size: 2rem;
+	padding: 16rem;
+	background: #f9f9f9;
+	display: row;
+	align-items: center;
+}
